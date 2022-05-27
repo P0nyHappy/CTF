@@ -1,0 +1,2 @@
+the flag is: wh3r3_d035_7h3_f3nc3_8361n_4nd_3nd_d00afdd3
+picoCTF{wh3r3_d035_7h3_f3nc3_8361n_4nd_3nd_d00afdd3}
